@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/583986870.svg)](https://zenodo.org/badge/latestdoi/583986870)
 
 
-# #DeOlhoNosCorais: a pixel-wise annotated dataset to optimize coral monitoring
+# #DeOlhoNosCorais: a polygonal annotated dataset to optimize coral monitoring
 
 This repository contains the scripts for used for the experiments using the #DeOlhoNosCorais dataset (https://doi.org/10.5281/zenodo.7338208) for the following tasks:
 
